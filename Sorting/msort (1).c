@@ -5,7 +5,7 @@ void merge(int [], int , int , int);
 void main()
 {
 	int *a,n,i,num,k;
-	printf("\nEnter the order ");
+	printf("\nEnter the   order ");
 	scanf("%d",&n);
 	a=(int*)malloc(sizeof(int)*n);
 	for(i=0;i<n;i++)
